@@ -9,16 +9,14 @@ This repository serves as a template for your 12-week Data and AI Engineering fi
 ```
 data-and-ai-engineering/
 ├── README.md                 # This file - project overview
-├── requirements.txt          # Python dependencies
-├── .env.example             # Environment variables template
-├── .gitignore               # Git ignore patterns
-├── data/                    # Data storage and management
-├── src/                     # Source code (e.g. Python modules)
-├── sql/                     # Database scripts and queries
-├── config/                  # Configuration files
-├── docs/                    # Project documentation
-├── tests/                   # Testing suite
-└── deployment/              # Infrastructure and deployment
+├── requirements.txt          # Python dependencies (pandas, numpy)
+├── config/                   # Configuration files
+├── data/                     # Data storage and management
+├── src/                      # Source code modules
+├── sql/                      # Database scripts and queries
+├── docs/                     # Project documentation
+├── tests/                    # Testing suite
+└── deployment/               # Infrastructure and deployment
 ```
 
 ## Getting Started
@@ -72,8 +70,6 @@ Your final project must include:
 
 ## Support
 
-- Review the `docs/` folder for detailed guidelines
-- Examine sample data and code in this template
 - Use weekly check-ins to track progress
 - Submit your project proposal for approval
 
