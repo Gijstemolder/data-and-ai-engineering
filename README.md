@@ -9,7 +9,7 @@ This repository serves as a template for your 12-week Data and AI Engineering fi
 ```
 data-and-ai-engineering/
 ├── README.md                 # This file - project overview
-├── requirements.txt          # Python dependencies (pandas, numpy)
+├── requirements.txt          # Ddependencies
 ├── config/                   # Configuration files
 ├── data/                     # Data storage and management
 ├── src/                      # Source code modules
