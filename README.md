@@ -63,10 +63,10 @@ Your final project must include:
 
 ## Evaluation Criteria
 
-- **Technical Implementation** (40%): Code quality, architecture, and best practices
+- **Technical Implementation** (40%): Model quality, code quality, architecture, and best practices
 - **Business Value** (25%): Relevance and impact of your solution
-- **Data Engineering** (20%): Pipeline design, scalability, and reliability
-- **Documentation** (15%): Clear documentation and presentation
+- **Data and AI Engineering** (20%): Pipeline design, security, scalability, and reliability
+- **Documentation** (15%): Clear documentation and presentations
 
 ## Support
 
